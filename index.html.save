@@ -9,11 +9,9 @@
 
     <body>
 	<div id="header"></div>
-	    <h2>Hello Git Pages!</h2>
-            <p>Please work!</p>
 	<div class="left"></div>
 	<div class="right"></div>
-	<div id="footer"></div>
+	<div id="footer>
     </body>
 
 </html>
