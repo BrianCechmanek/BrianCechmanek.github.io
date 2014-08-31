@@ -87,6 +87,6 @@
 h1, h2, p, li {
     color: white;
     font-family: Monaco;
-    text-shadow: 0 0 2px black ;
+    text-shadow: 0 0 2px ;
 }
 
